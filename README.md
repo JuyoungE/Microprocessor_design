@@ -7,7 +7,7 @@ I annotated each code of file.
 ## FSM design for 8 bit SAC
 
 ### 1.OBJECTIVE
-    ![1](https://user-images.githubusercontent.com/45000598/48889550-9b5fcb00-ee79-11e8-9fef-0db9f6520ef0.PNG)
+![1](https://user-images.githubusercontent.com/45000598/48889550-9b5fcb00-ee79-11e8-9fef-0db9f6520ef0.PNG)
 
 
     Atmega128을 이용하여 8 bit SAC를 설계하고 시뮬레이션을 통해 동작을 확인한다. 
@@ -19,8 +19,8 @@ I annotated each code of file.
 
 ### 3.HARDWARE DESIGN, INCLUDE BLOCK DIAGRAM OF DESIGN, I/O, ETC.
    
-    ![2](https://user-images.githubusercontent.com/45000598/48889551-9b5fcb00-ee79-11e8-8ff5-320090f28694.PNG)
-    ![3](https://user-images.githubusercontent.com/45000598/48889552-9bf86180-ee79-11e8-94ff-853e528a9f38.PNG)
+![2](https://user-images.githubusercontent.com/45000598/48889551-9b5fcb00-ee79-11e8-8ff5-320090f28694.PNG)
+![3](https://user-images.githubusercontent.com/45000598/48889552-9bf86180-ee79-11e8-94ff-853e528a9f38.PNG)
    
    
     - 회로의 전원(start)은 PE5에 연결된 push 버튼을 이용한다.
@@ -31,18 +31,18 @@ I annotated each code of file.
 
 ### 4. SOFTWARE DESIGN, INCLUDE FLOW CHART, FUNCTIONS USED IN CODE
 
-    ![4](https://user-images.githubusercontent.com/45000598/48889554-9bf86180-ee79-11e8-9b0b-39c5724f6e34.PNG)
-    ![5](https://user-images.githubusercontent.com/45000598/48889555-9bf86180-ee79-11e8-8374-afb67835b412.PNG)
+![4](https://user-images.githubusercontent.com/45000598/48889554-9bf86180-ee79-11e8-9b0b-39c5724f6e34.PNG)
+![5](https://user-images.githubusercontent.com/45000598/48889555-9bf86180-ee79-11e8-8374-afb67835b412.PNG)
 
 ### 5. SIMULATION & EXPERIMENT RESULTS
 
-    ![6](https://user-images.githubusercontent.com/45000598/48889556-9c90f800-ee79-11e8-8a4a-89d859430d8c.PNG)
-    ![7](https://user-images.githubusercontent.com/45000598/48889557-9c90f800-ee79-11e8-81eb-e9c28a828768.PNG)
+![6](https://user-images.githubusercontent.com/45000598/48889556-9c90f800-ee79-11e8-8a4a-89d859430d8c.PNG)
+![7](https://user-images.githubusercontent.com/45000598/48889557-9c90f800-ee79-11e8-81eb-e9c28a828768.PNG)
     
 ### 6. REFERENCES
     AVR Microcontroller and Embedded Systems : Using Assembly and C, Mazidi, Prentice hall, 2010 Ref. 1 : 'Microcontrollers and Microcomputers - Principles of Software and Hardware Engineering', Cady, Frederick M., Oxford University Press, 2009. Ref. 2: D. Patterson and J. Hennessy, Computer Organization and Design: The Hardware/Software Interface, Morgan Kaufmann, 5th edition, 2013
     
-    ![8](https://user-images.githubusercontent.com/45000598/48889558-9c90f800-ee79-11e8-9483-f161a066769e.PNG)
+![8](https://user-images.githubusercontent.com/45000598/48889558-9c90f800-ee79-11e8-9483-f161a066769e.PNG)
 
 
 
